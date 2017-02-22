@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-int main(void)
+void main(void)
 
 {
 	int i,j,k;
